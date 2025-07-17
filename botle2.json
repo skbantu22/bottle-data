@@ -1,82 +1,82 @@
 [
   {
     "id": 1,
-    "brand": "AquaPure",
-    "capacity": "1L",
+    "brand": "ClearBottle",
+    "capacity": "500ml",
     "material": "Plastic",
     "price": 120,
-    "imageURL": "https://images.unsplash.com/photo-1509042239860-f550ce710b93?auto=format&fit=crop&w=150&q=80"
+    "imageURL": "https://www.stickpng.com/assets/images/580b57fbd9996e24bc43c053.png"
   },
   {
     "id": 2,
-    "brand": "HydroSteel",
-    "capacity": "750ml",
+    "brand": "HydroMate",
+    "capacity": "1L",
     "material": "Stainless Steel",
-    "price": 350,
-    "imageURL": "https://images.unsplash.com/photo-1526403223889-916b2fc234dd?auto=format&fit=crop&w=150&q=80"
+    "price": 320,
+    "imageURL": "https://www.stickpng.com/assets/images/580b57fbd9996e24bc43c053.png"
   },
   {
     "id": 3,
     "brand": "EcoSip",
-    "capacity": "500ml",
+    "capacity": "750ml",
     "material": "Glass",
-    "price": 250,
-    "imageURL": "https://images.unsplash.com/photo-1556228720-6816aa9d6579?auto=format&fit=crop&w=150&q=80"
+    "price": 280,
+    "imageURL": "https://www.stickpng.com/assets/images/580b57fbd9996e24bc43c053.png"
   },
   {
     "id": 4,
+    "brand": "ChillWave",
+    "capacity": "600ml",
+    "material": "Plastic",
+    "price": 140,
+    "imageURL": "https://www.stickpng.com/assets/images/580b57fbd9996e24bc43c053.png"
+  },
+  {
+    "id": 5,
+    "brand": "SteelFlow",
+    "capacity": "1.2L",
+    "material": "Stainless Steel",
+    "price": 400,
+    "imageURL": "https://www.stickpng.com/assets/images/580b57fbd9996e24bc43c053.png"
+  },
+  {
+    "id": 6,
+    "brand": "AquaDrop",
+    "capacity": "2L",
+    "material": "Plastic",
+    "price": 220,
+    "imageURL": "https://www.stickpng.com/assets/images/580b57fbd9996e24bc43c053.png"
+  },
+  {
+    "id": 7,
+    "brand": "PureMate",
+    "capacity": "500ml",
+    "material": "Glass",
+    "price": 190,
+    "imageURL": "https://www.stickpng.com/assets/images/580b57fbd9996e24bc43c053.png"
+  },
+  {
+    "id": 8,
+    "brand": "FitHydrate",
+    "capacity": "1L",
+    "material": "Aluminum",
+    "price": 330,
+    "imageURL": "https://www.stickpng.com/assets/images/580b57fbd9996e24bc43c053.png"
+  },
+  {
+    "id": 9,
     "brand": "CoolMate",
     "capacity": "1.5L",
     "material": "Plastic",
     "price": 180,
-    "imageURL": "https://images.unsplash.com/photo-1590080877777-56be64f4336c?auto=format&fit=crop&w=150&q=80"
-  },
-  {
-    "id": 5,
-    "brand": "FitHydrate",
-    "capacity": "1L",
-    "material": "Aluminum",
-    "price": 300,
-    "imageURL": "https://images.unsplash.com/photo-1514361892637-01c8b2a1992a?auto=format&fit=crop&w=150&q=80"
-  },
-  {
-    "id": 6,
-    "brand": "PureDrop",
-    "capacity": "600ml",
-    "material": "Plastic",
-    "price": 130,
-    "imageURL": "https://images.unsplash.com/photo-1573847464880-0a1df9a68f6b?auto=format&fit=crop&w=150&q=80"
-  },
-  {
-    "id": 7,
-    "brand": "SteelWave",
-    "capacity": "1.2L",
-    "material": "Stainless Steel",
-    "price": 400,
-    "imageURL": "https://images.unsplash.com/photo-1587019158014-5228b42d3a3e?auto=format&fit=crop&w=150&q=80"
-  },
-  {
-    "id": 8,
-    "brand": "GlassGlow",
-    "capacity": "700ml",
-    "material": "Glass",
-    "price": 280,
-    "imageURL": "https://images.unsplash.com/photo-1506744038136-46273834b3fb?auto=format&fit=crop&w=150&q=80"
-  },
-  {
-    "id": 9,
-    "brand": "ChillMate",
-    "capacity": "2L",
-    "material": "Plastic",
-    "price": 220,
-    "imageURL": "https://images.unsplash.com/photo-1499951360447-b19be8fe80f5?auto=format&fit=crop&w=150&q=80"
+    "imageURL": "https://www.stickpng.com/assets/images/580b57fbd9996e24bc43c053.png"
   },
   {
     "id": 10,
     "brand": "ActiveSip",
-    "capacity": "1L",
-    "material": "Aluminum",
-    "price": 320,
-    "imageURL": "https://images.unsplash.com/photo-1501594907352-04cda38ebc29?auto=format&fit=crop&w=150&q=80"
+    "capacity": "700ml",
+    "material": "Stainless Steel",
+    "price": 300,
+    "imageURL": "https://www.stickpng.com/assets/images/580b57fbd9996e24bc43c053.png"
   }
 ]
