@@ -5,7 +5,7 @@
     "capacity": "1L",
     "material": "Plastic",
     "price": 120,
-    "imageURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Water_bottle.jpg/640px-Water_bottle.jpg"
+    "imageURL": "https://via.placeholder.com/150x200?text=AquaPure"
   },
   {
     "id": 2,
@@ -13,7 +13,7 @@
     "capacity": "750ml",
     "material": "Stainless Steel",
     "price": 350,
-    "imageURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Water_bottle_%285987404672%29.jpg/640px-Water_bottle_%285987404672%29.jpg"
+    "imageURL": "https://via.placeholder.com/150x200?text=HydroSteel"
   },
   {
     "id": 3,
@@ -21,7 +21,7 @@
     "capacity": "500ml",
     "material": "Glass",
     "price": 250,
-    "imageURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Glass_water_bottle.jpg/640px-Glass_water_bottle.jpg"
+    "imageURL": "https://via.placeholder.com/150x200?text=EcoSip"
   },
   {
     "id": 4,
@@ -29,7 +29,7 @@
     "capacity": "1.5L",
     "material": "Plastic",
     "price": 180,
-    "imageURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Mineral_water_bottle_plastic.jpg/640px-Mineral_water_bottle_plastic.jpg"
+    "imageURL": "https://via.placeholder.com/150x200?text=CoolMate"
   },
   {
     "id": 5,
@@ -37,7 +37,7 @@
     "capacity": "1L",
     "material": "Aluminum",
     "price": 300,
-    "imageURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Sigg_water_bottle.jpg/640px-Sigg_water_bottle.jpg"
+    "imageURL": "https://via.placeholder.com/150x200?text=FitHydrate"
   },
   {
     "id": 6,
@@ -45,7 +45,7 @@
     "capacity": "600ml",
     "material": "Plastic",
     "price": 130,
-    "imageURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Reusable_water_bottle.jpg/640px-Reusable_water_bottle.jpg"
+    "imageURL": "https://via.placeholder.com/150x200?text=PureDrop"
   },
   {
     "id": 7,
@@ -53,7 +53,7 @@
     "capacity": "1.2L",
     "material": "Stainless Steel",
     "price": 400,
-    "imageURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Stainless_steel_water_bottle.jpg/640px-Stainless_steel_water_bottle.jpg"
+    "imageURL": "https://via.placeholder.com/150x200?text=SteelWave"
   },
   {
     "id": 8,
@@ -61,7 +61,7 @@
     "capacity": "700ml",
     "material": "Glass",
     "price": 280,
-    "imageURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Water_bottle_glass.jpg/640px-Water_bottle_glass.jpg"
+    "imageURL": "https://via.placeholder.com/150x200?text=GlassGlow"
   },
   {
     "id": 9,
@@ -69,7 +69,7 @@
     "capacity": "2L",
     "material": "Plastic",
     "price": 220,
-    "imageURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Plastic_water_bottle.jpg/640px-Plastic_water_bottle.jpg"
+    "imageURL": "https://via.placeholder.com/150x200?text=ChillMate"
   },
   {
     "id": 10,
@@ -77,6 +77,6 @@
     "capacity": "1L",
     "material": "Aluminum",
     "price": 320,
-    "imageURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Sports_water_bottle.jpg/640px-Sports_water_bottle.jpg"
+    "imageURL": "https://via.placeholder.com/150x200?text=ActiveSip"
   }
 ]
