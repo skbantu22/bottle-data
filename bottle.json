@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "brand": "AquaPure",
+    "capacity": "1L",
+    "material": "Plastic",
+    "price": 120,
+    "imageURL": "https://example.com/images/aquapure-1l.png"
+  },
+  {
+    "id": 2,
+    "brand": "HydroSteel",
+    "capacity": "750ml",
+    "material": "Stainless Steel",
+    "price": 350,
+    "imageURL": "https://example.com/images/hydrosteel-750ml.png"
+  },
+  {
+    "id": 3,
+    "brand": "EcoSip",
+    "capacity": "500ml",
+    "material": "Glass",
+    "price": 250,
+    "imageURL": "https://example.com/images/ecosip-500ml.png"
+  },
+  {
+    "id": 4,
+    "brand": "CoolMate",
+    "capacity": "1.5L",
+    "material": "Plastic",
+    "price": 180,
+    "imageURL": "https://example.com/images/coolmate-1.5l.png"
+  },
+  {
+    "id": 5,
+    "brand": "FitHydrate",
+    "capacity": "1L",
+    "material": "Aluminum",
+    "price": 300,
+    "imageURL": "https://example.com/images/fithydrate-1l.png"
+  }
+]
